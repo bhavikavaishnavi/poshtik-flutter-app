@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960606229224",
+    "project_id": "poshtik-spit",
+    "storage_bucket": "poshtik-spit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960606229224:android:b8121ecfeaa5c8331bef5d",
+        "android_client_info": {
+          "package_name": "com.example.vt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960606229224-g5ehelbgtm9qevqqj6slbe7l5i9jqgjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2j04qPb3rbOm3hjc7PZAbylfJFrqwYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960606229224-g5ehelbgtm9qevqqj6slbe7l5i9jqgjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
